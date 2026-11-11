@@ -1,0 +1,16 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "si.myeline/myeline",
+  "description": "Plug-and-play memory for any AI: approved facts, human review, audit trail",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "url": "https://cortex.myeline.si/mcp",
+      "type": "streamable-http",
+      "auth": "oauth"
+    }
+  ],
+  "publisher": "Sandbox Group LLC",
+  "website": "https://myeline.si",
+  "tags": ["memory", "context", "knowledge", "personal-assistant", "productivity"]
+}
