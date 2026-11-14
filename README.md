@@ -32,3 +32,25 @@ assistant at once.
 - Free tier: 200 memories. Team brains: $20/seat/month with their own MCP address
 
 By [Sandbox Group LLC](https://github.com/Sandbox-Group-LLC) · Myeline, P.O. Box 40072, Portland, OR 97240
+
+## OpenCode
+
+Remote MCP with OAuth — add to `opencode.json`:
+
+```json
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "myeline": {
+      "type": "remote",
+      "url": "https://cortex.myeline.si/mcp",
+      "enabled": true
+    }
+  }
+}
+```
+
+OpenCode detects the OAuth challenge on first use; sign in with your Myeline
+account (create one free at [workspace.myeline.si](https://workspace.myeline.si))
+and approve once. Your agent can then search your approved facts before
+answering and stage new memories for your review.
