@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "myeline",
+  "description": "Persistent memory with receipts: search your approved facts before answering and remember what you tell the agent, source attached",
+  "version": "1.0.0",
+  "author": { "name": "Sandbox Group LLC", "url": "https://myeline.si" },
+  "homepage": "https://myeline.si",
+  "repository": "https://github.com/Sandbox-Group-LLC/myeline-mcp",
+  "license": "MIT"
+}
