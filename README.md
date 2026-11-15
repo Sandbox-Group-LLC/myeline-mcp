@@ -33,6 +33,15 @@ assistant at once.
 
 By [Sandbox Group LLC](https://github.com/Sandbox-Group-LLC) · Myeline, P.O. Box 40072, Portland, OR 97240
 
+## Slack
+
+Add Myeline to your workspace:
+
+[![Add to Slack](https://platform.slack.com/img/add_to_slack.png)](https://slack.com/oauth/v2/authorize?client_id=10042690022548.12607106906722&scope=channels:history,chat:write,commands,mcp:connect)
+
+Grants channel history (read), writing, slash commands, and MCP connect. Your
+team approves every fact before it becomes memory.
+
 ## OpenCode
 
 Remote MCP with OAuth — add to `opencode.json`:
