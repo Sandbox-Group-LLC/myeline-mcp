@@ -3,7 +3,7 @@
   "name": "si.myeline/myeline",
   "title": "Myeline",
   "description": "Memory with receipts. Every fact shows where it came from and who approved it.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "remotes": [
     {
       "url": "https://cortex.myeline.si/mcp",
