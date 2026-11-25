@@ -10,6 +10,8 @@ assistant at once.
 
 **Registry:** [si.myeline/myeline](https://registry.modelcontextprotocol.io/#servers/si.myeline%2Fmyeline) on the official MCP Registry
 
+**Glama:** [![si.myeline/myeline MCP connector](https://glama.ai/mcp/connectors/si.myeline/myeline/badges/score.svg)](https://glama.ai/mcp/connectors/si.myeline/myeline)
+
 **Website:** https://myeline.si · **Docs:** https://workspace.myeline.si/docs
 
 ## Connect any MCP client
