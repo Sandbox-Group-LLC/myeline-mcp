@@ -1,0 +1,7 @@
+{
+  "$schema": "glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "BrianBMorgan",
+    "gibson-sandbox"
+  ]
+}
